@@ -23,7 +23,7 @@ EOF
 }
 
 
-/*Now that we have our dependencies available to us through the locals we now need to build out the basic Azure components.
+/*  Now that we have our dependencies available to us through the locals we now need to build out the basic Azure components.
 
 azurerm_resource_group - This is the resource group where the resources will be deployed.
 azurerm_storage_account - This is the storage account where the boot diagnostics logs will be stored from our IaaS instance.

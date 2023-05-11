@@ -70,3 +70,6 @@ variable "github_organisation" {
   type        = string
   description = "(Required) The Github organisation to use"
 }
+
+
+/*azure*/
